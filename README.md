@@ -33,13 +33,12 @@
   <br/>
 ## 🤔 Github Stats
 
-<!-- 상단 카드: 전체 활동 통계 -->
-[![Yongjoon's GitHub stats](https://github-readme-stats.vercel.app)](https://github.com)
+<div align="center">
 
-<!-- 하단 카드: 사용 언어 비율 -->
-[![Top Langs](https://github-readme-stats.vercel.app)](https://github.com)
-  
-  
+<img src="https://github-readme-stats.vercel.app/api?username=yongjoon02&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongjoon02&layout=compact&theme=tokyonight" height="165"/>
+
 </div>
 <!--
 **yongjoon02/yongjoon02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
