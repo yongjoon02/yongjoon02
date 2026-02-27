@@ -35,8 +35,8 @@
 ## 🤔 Github Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yongjoon02&theme=github_dark" height="200"/>
-  <img src="https://streak-stats.demolab.com?user=yongjoon02&theme=github-dark" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yongjoon02&theme=github_dark" width="400"/>
+  <img src="https://streak-stats.demolab.com?user=yongjoon02&theme=github-dark" width="597.5"/>
 </p>
 
 </div>
