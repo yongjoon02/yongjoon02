@@ -32,9 +32,11 @@
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
   <br/>
 ## 🤔 Github Stats
-[![Yongjoon's GitHub stats](https://github-readme-stats.vercel.app)](https://github.com)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app)](https://github.com)/>
+  ![Yongjoon's GitHub stats](https://github-readme-stats.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+  <br/>
+  [![Top Langs](https://github-readme-stats.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
   
   
 </div>
+<!--
+**yongjoon02/yongjoon02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
