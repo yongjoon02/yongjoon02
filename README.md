@@ -31,12 +31,13 @@
   <!--FastAPI-->
   <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
   <br/>
+  
 ## 🤔 Github Stats
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yongjoon02&theme=github_dark" />
-<img src="https://streak-stats.demolab.com?user=yongjoon02&theme=github-dark" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yongjoon02&theme=github_dark" height="200"/>
+  <img src="https://streak-stats.demolab.com?user=yongjoon02&theme=github-dark" height="200"/>
+</p>
 
 </div>
 <!--
