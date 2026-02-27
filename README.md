@@ -35,9 +35,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yongjoon02&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongjoon02&layout=compact&theme=tokyonight" height="165"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yongjoon02&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yongjoon02&theme=github_dark" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yongjoon02&layout=compact&cache_seconds=1800" />
 
 </div>
 <!--
