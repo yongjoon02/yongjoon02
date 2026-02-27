@@ -14,23 +14,14 @@
 <br/>
 
 
-## 🧱 Tech Stack
-### Language 
-<!--Python-->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<br/>
-### Library
-<!--PyTorch-->
-<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat-square&logo=Python&logoColor=white"/>
-<!--OpenCV-->
-<img src="https://img.shields.io/badge/opencv-5C3EE8?style=flat-square&logo=Python&logoColor=white"/>
+## 🛠 Tech Stack
 
-### Framework
-  <!--Flask-->
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-  <!--FastAPI-->
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
-  <br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+</p>
   
 ## 🤔 Github Stats
 
