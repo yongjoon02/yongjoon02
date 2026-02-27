@@ -33,9 +33,11 @@
   <br/>
 ## 🤔 Github Stats
 
-[![Yongjoon's GitHub stats](https://github-readme-stats.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 상단 카드: 전체 활동 통계 -->
+[![Yongjoon's GitHub stats](https://github-readme-stats.vercel.app)](https://github.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 하단 카드: 사용 언어 비율 -->
+[![Top Langs](https://github-readme-stats.vercel.app)](https://github.com)
   
   
 </div>
